@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.Variables;
+package Lecture04.Variables;
 
 public class q1_variable_name_age_city {
     public static void main(String[] args) {

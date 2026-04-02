@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.DataTypes;
+package Lecture04.DataTypes;
 
 public class q2_age_salary_grade {
     public static void main(String[] args) {

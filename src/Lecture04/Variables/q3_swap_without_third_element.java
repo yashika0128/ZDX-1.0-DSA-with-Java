@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.Variables;
+package Lecture04.Variables;
 
 public class q3_swap_without_third_element {
     public static void main(String[] args) {

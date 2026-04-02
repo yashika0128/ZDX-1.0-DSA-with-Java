@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.Variables;
+package Lecture04.Variables;
 
 public class q4_valid_variable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.DataTypes;
+package Lecture04.DataTypes;
 
 public class q1_all_primitive_DT {
     public static void main(String[] args) {

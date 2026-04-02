@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.DataTypes;
+package Lecture04.DataTypes;
 
 public class q4_double_to_int {
     public static void main(String[] args) {

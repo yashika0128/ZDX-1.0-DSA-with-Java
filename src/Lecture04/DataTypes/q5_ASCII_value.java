@@ -1,4 +1,4 @@
-package Lecture04_Variables_Datatypes.DataTypes;
+package Lecture04.DataTypes;
 
 public class q5_ASCII_value {
     public static void main(String[] args) {
