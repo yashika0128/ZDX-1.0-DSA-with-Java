@@ -1,4 +1,4 @@
-package Lecture07_Patterns.Part02;
+package Lecture07_08_Patterns.Part02;
 
 import java.util.Scanner;
 
