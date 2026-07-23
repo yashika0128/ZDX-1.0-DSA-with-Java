@@ -8,10 +8,6 @@
   <em>Learn Concepts Deeply · Build Intuition · Practice Consistently · Become Industry Ready</em>
 </p>
 
-[![Stars](https://img.shields.io/github/stars/ZiDDiiX/ZDX-1.0-DSA-with-Java?style=for-the-badge&color=FFD700&logo=github)](https://github.com/ZiDDiiX/ZDX-1.0-DSA-with-Java)
-[![Forks](https://img.shields.io/github/forks/ZiDDiiX/ZDX-1.0-DSA-with-Java?style=for-the-badge&color=00BFFF&logo=github)](https://github.com/ZiDDiiX/ZDX-1.0-DSA-with-Java/network/members)
-[![Issues](https://img.shields.io/github/issues/ZiDDiiX/ZDX-1.0-DSA-with-Java?style=for-the-badge&color=FF6961&logo=github)](https://github.com/ZiDDiiX/ZDX-1.0-DSA-with-Java/issues)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](#-license)
 [![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/Status-Actively%20Updated-success?style=for-the-badge)](#)
 
